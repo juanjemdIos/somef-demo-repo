@@ -1,0 +1,37 @@
+{
+    "@context": "https://schema.org",
+    "@type": "DefinedTermSet",
+    "name": "Repository Keywords",
+    "term": [
+        {
+            "@type": "DefinedTerm",
+            "name": "machine-learning",
+            "@id": "https://example.org/machine-learning",
+            "description": "A field of AI focused on training models to learn patterns from data."
+        },
+        {
+            "@type": "DefinedTerm",
+            "name": "data-science",
+            "@id": "https://example.org/data-science",
+            "description": "The process of analyzing and interpreting complex data."
+        },
+        {
+            "@type": "DefinedTerm",
+            "name": "open-source",
+            "@id": "https://example.org/open-source",
+            "description": "Software whose source code is freely available to the public."
+        }
+    ],
+    "keywords": [
+        {
+            "@type": "DefinedTerm",
+            "name": "documentation",
+            "@id": "https://example.org/documentation"
+        },
+        "metadata",
+        "ontology",
+        "ontology-diagram",
+        "ontology-evaluation",
+        "wizard"
+    ]
+}

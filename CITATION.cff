@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: SOMEF DEMO REPO
+abstract: Demo repository for new version (0.9.10) of SOMEF 
+authors:
+  - family-names: Thomas
+    given-names: Pronk
+    orcid: https://orcid.org/0000-0001-9334-7190
+version: 0.0.1
+date-released: 2023-11-23
+license: AGPL-3.0
+url: "https://github.com/tpronk/somef-demo-repo"
